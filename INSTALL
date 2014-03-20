@@ -1,0 +1,9 @@
+Building Fanchuancoin
+
+See doc/readme-qt.rst for instructions on building Fanchuancoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Fanchuancoin.
+
+See doc/build-*.txt for instructions on building fanchuancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Fanchuancoin.
